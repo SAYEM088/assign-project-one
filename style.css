@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+}
+.nav-tittle{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(163, 161, 161);
+}
+.nav-name{
+    font-size: 40px;
+    font-weight: 800; 
+    padding: 20px; 
+    color: blue;
+}
+.name-design{
+    color: brown;
+}
+.nav-manu{
+    list-style: none;
+    display: flex;
+}
+.list-item{
+    padding: 40px;
+    color: black;
+    font-weight: 900;
+}
+/* end nav */
+/* bannar section */
+.home-banner{
+    background-size: cover;
+    background-image: url(/images/banner/banner3.png);
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    align-items:center;
+}
+.banner-theme{
+    padding-right: 100px;
+    font-size: 50px;
+    font-weight: 800px;
+}
+.banner-para{
+    padding-right: 100px;
+    width: 500px;
+    text-align: right;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.banner-button{
+    padding-right: 120px;
+    padding-top: 50px;
+}
+.button-contact{
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+}
