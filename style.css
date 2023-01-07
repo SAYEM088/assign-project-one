@@ -1,6 +1,7 @@
 *{
     margin: 0px;
 }
+/* nav-bar */
 .nav-tittle{
     display: flex;
     justify-content: space-around;
@@ -63,14 +64,14 @@
     background-color: orangered;
     color: white;
 }
-
+/* -picture-page */
 .profile-cover{
     display: flex;
     
     width: 100%;
 }
 .pic-container{
-    margin: 100px;
+    margin: 90px;
 }
 .details-container{
     margin: 100px;
@@ -106,10 +107,10 @@ span{
 /* plan page */
 
 .plan-page{
- height: 100vh;
+ height: 110vh;
 }
 .my-plan-div{
-    margin-top: 120px;
+    margin-top: 100px;
     text-align: center;
 }
 .my-plan{
@@ -137,6 +138,7 @@ span{
     padding-top: 10px;
     color: rgb(88, 86, 86);
 }
+/* gradient-setup */
 .grad-task{
     margin-left: 100px;
     margin-right: 110px;
@@ -151,6 +153,15 @@ span{
     font-size: 50px;
     color: white;
 }
+.call-me{
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 800;
+    color: blue;
+}
+/* last-page */
 .cont-details{
     display: flex;
     height: 60vh;
@@ -174,6 +185,13 @@ span{
 .future-contact{
     color: white;
     padding-top: 10px;
+}
+.contact-logo{
+    display: flex;
+    padding-top: 10px;
+}
+.fb-logo{
+    padding-right: 15px;
 }
 .subscribe{
     margin: 120px;
@@ -200,3 +218,4 @@ span{
     border-radius: 7px;
     font-size: 15px;
 }
+/* finally the end !!! */
