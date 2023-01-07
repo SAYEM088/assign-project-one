@@ -137,3 +137,17 @@ span{
     padding-top: 10px;
     color: rgb(88, 86, 86);
 }
+.grad-task{
+    margin-left: 100px;
+    margin-right: 110px;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-image: url(/images/gradient1.png),url(/images/watch.png),
+    linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, .4));
+    background-repeat: no-repeat;
+    border-radius: 8px;
+}
+.positive-mind{
+    font-size: 50px;
+    color: white;
+}
