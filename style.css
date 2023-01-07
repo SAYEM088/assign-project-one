@@ -63,3 +63,62 @@
     background-color: orangered;
     color: white;
 }
+
+.profile-cover{
+    display: flex;
+    
+    width: 100%;
+}
+.pic-container{
+    margin: 100px;
+}
+.details-container{
+    margin: 100px;
+    padding-top: 20px;
+    align-items: center;
+    text-align: left;
+    
+}
+.details-header{
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 100px;
+    margin-top: 50px;
+    
+}
+.details-para{
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.details-list{
+    font-size: 20px;
+    font-weight: 400;
+    list-style: none;
+    padding: 20px;
+}
+.details-check{
+
+}
+span{
+    color: green;
+}
+/* plan page */
+
+.my-plan-div{
+    
+    
+}
+.my-plan{
+    
+}
+.plan-page{
+   
+}
+.plan-list{
+    
+}
+   
+.plans{
+  
+}
